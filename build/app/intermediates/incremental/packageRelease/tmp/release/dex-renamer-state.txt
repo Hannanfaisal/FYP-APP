@@ -1,0 +1,4 @@
+#Fri Jun 14 20:22:39 PKT 2024
+base.0=C\:\\Users\\PMLS\\OneDrive\\Documents\\FYP APP\\FYP\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
