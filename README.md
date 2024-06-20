@@ -22,12 +22,14 @@ samples, guidance on mobile development, and a full API reference.
 <hr>
 
 
-<img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/fc97c398-2705-4dc6-b7bd-4ef614bbfada" width="200" height="365">  <img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/0eb83658-eb28-4bc3-a505-e0f9b8cc0732" width="200" height="365">   <img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/14458ee0-957c-436b-b34f-db026a4d92bc" width="200" height="365">  
+<img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/fc97c398-2705-4dc6-b7bd-4ef614bbfada" width="200" height="365">  <img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/0eb83658-eb28-4bc3-a505-e0f9b8cc0732" width="200" height="365">   <img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/f893552a-8a2c-4438-a9dd-f757f9f638a3" width="200" height="365">  <img src="https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/de268ebc-8b15-4075-9b14-a869185649ed" width="200" height="365">  
+
+<hr>
 
 
 
-
-
+![screen_1](https://)
+![screen_2](https://github.com/Hannanfaisal/FYP-Mobile-App/assets/92662090/2ebf9bbd-7d44-4c7f-adce-5641bffe2a20)
 
 
 
